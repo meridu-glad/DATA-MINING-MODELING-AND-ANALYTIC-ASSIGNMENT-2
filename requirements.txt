@@ -1,0 +1,15 @@
+# Project 2: Credit Card Fraud Detection
+# Install with: pip install -r requirements.txt
+
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+imbalanced-learn
+xgboost
+
+# Note:
+# google.colab is only required when running in Google Colab and is normally pre-installed.
+# random and collections are part of Python's standard library.
